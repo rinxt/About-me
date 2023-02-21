@@ -17,7 +17,3 @@
 <p align="left">
 <img src="my-sticker.png" alt="me" width="150" height="150"/>
 </p>
-
-
-# Build settings:
-theme: minima
